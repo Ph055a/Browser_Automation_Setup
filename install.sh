@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 sudo apt update
-sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev chromium chromium-driver
+sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev chromium chromium-driver firefox
 
 sudo gem install nokogiri page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers watir-ng watir-nokogiri 
 
