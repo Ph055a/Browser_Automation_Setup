@@ -16,5 +16,7 @@ A quick install script for setting up a system for browser automation with Cucum
     - xpath
     - csv
     - selenium-webdriver
-    - solargraph
+    - faker
+    
+  and finally solargraph because, why not! 
 
