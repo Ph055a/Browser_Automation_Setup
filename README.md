@@ -17,6 +17,10 @@ A quick install script for setting up a system for browser automation with Cucum
     - csv
     - selenium-webdriver
     - faker
-    
+    - activerecord
+    - factory_girl
+    - database_cleaner
+    - sqlite3
+	
   and finally solargraph because, why not! 
 
