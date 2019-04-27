@@ -4,9 +4,9 @@ sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev chrom
 
 sudo gem install solargraph faker nokogiri page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers watir-ng watir-nokogiri factory_girl activerecord database_cleaner sqlite3
 
-# Gekodriver
-cd ~/Downloads
-wget https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz
-tar -xvzf geckodriver*
-chmod +x geckodriver
-sudo mv geckodriver /usr/local/bin
+# Gekodriver (optional)
+# cd ~/Downloads
+# wget https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz
+# tar -xvzf geckodriver*
+# chmod +x geckodriver
+# sudo mv geckodriver /usr/local/bin
