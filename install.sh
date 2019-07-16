@@ -3,14 +3,14 @@ sudo apt-get install -y \
 build-essential \
 patch \
 ruby-dev \
-zlib1g-dev \
+zlib1g-dev \ 
 liblzma-dev \
 chromium-browser \
 chromium-chromedriver \
 firefox \
 libsqlite3-dev
 
-sudo gem install solargraph faker nokogiri page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers watir-ng watir-nokogiri factory_girl activerecord database_cleaner sqlite3
+sudo gem install solargraph faker nokogiri page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers watir-ng watir-nokogiri factory_girl activerecord database_cleaner rake sqlite3
 
 # Gekodriver (optional)
 cd ~/Downloads
