@@ -8,7 +8,6 @@ A quick install script for setting up a system for browser automation with Cucum
     - nokogiri
     - watir
     - watir-nokogiri
-    - watir-ng
     - webdrivers
     - gherkin
     - page-object

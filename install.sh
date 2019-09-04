@@ -10,7 +10,7 @@ chromium-chromedriver \
 firefox \
 libsqlite3-dev
 
-sudo gem install solargraph faker page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers watir-ng watir-nokogiri factory_girl activerecord database_cleaner rake sqlite3
+sudo gem install solargraph watir-nokogiri faker page-object cucumber xpath csv selenium-webdriver watir gherkin webdrivers factory_girl activerecord database_cleaner rake sqlite3
 
 sudo gem install nokogiri -- -use-system-libraries
 # Gekodriver (optional)
