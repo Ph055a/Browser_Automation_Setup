@@ -11,6 +11,7 @@ A quick install script for setting up a system for browser automation with Cucum
     - webdrivers
     - gherkin
     - page-object
+    - colorize
     - cucumber
     - xpath
     - csv
