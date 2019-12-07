@@ -30,3 +30,4 @@ wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodrive
 tar -xvzf geckodriver*
 chmod +x geckodriver
 sudo mv geckodriver /usr/local/bin
+sudo rm -rf ~/Downloads/geckodriver-v0.24.0-linux.tar.gz
