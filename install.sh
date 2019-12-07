@@ -7,7 +7,7 @@ sudo apt install -y \
 build-essential \
 patch \
 ruby-dev \
-zlib1g-dev \ 
+zlib1g-dev \
 liblzma-dev \
 chromium-browser \
 chromium-chromedriver \
